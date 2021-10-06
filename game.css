@@ -1,0 +1,30 @@
+body
+{
+	background-image: url("back.jpg");
+}
+
+	.login_1 , .login_2
+	{
+		background:transparent;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#input_1 , #input_2
+{
+	display: inline-block;
+}
+.text{
+    color: black;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
